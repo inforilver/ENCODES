@@ -10,7 +10,7 @@
 ```bash
 rm -rf ENC
 
-git clone 
+git clone https://github.com/inforilver/ENCODES
 
 cd ENCRYPT
 
